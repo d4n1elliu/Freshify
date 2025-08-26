@@ -1,4 +1,4 @@
-# Online-Grocery-Website
+Freshify (A online grocery website)
 
 A dynamic website which simulates a real-world e-commerce experience. 
 Users can browse available products, search by category, add items to their cart and proceed to a checkout process with order confirmation.
