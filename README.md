@@ -27,6 +27,5 @@ Setup Instructions
 6. Open a browser and navigate to http://localhost/Online-Grocery-Website.
 
 
-Website Demo
-Youtube link for project demonstration: 
+Demo Video:
 https://youtu.be/eoS7-2w-Ixk
