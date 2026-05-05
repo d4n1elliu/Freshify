@@ -1,7 +1,6 @@
-# 🛒 Freshify (A online grocery website)
+# Freshify 
 
-A dynamic website which simulates a real-world e-commerce experience. 
-Users can browse available products, search by category, add items to their cart and proceed to a checkout process with order confirmation.
+A dynamic website which simulates a real-world e-commerce experience. Users can browse available products, search by category, add items to their cart and proceed to a checkout process with order confirmation.
 
 Features
 - Product listing by category (e.g., Fresh, Frozen, Pantry)
